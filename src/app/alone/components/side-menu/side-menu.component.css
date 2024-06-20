@@ -1,4 +1,9 @@
-side-menu {
+li{
+  cursor: pointer;
+  position: 0.2s all;
+};
+
+ul{
   z-index: 999;
   position: fixed;
   left: 20px;
